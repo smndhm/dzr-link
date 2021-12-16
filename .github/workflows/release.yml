@@ -1,4 +1,4 @@
-name: feat/manu
+name: main
 on: push
 jobs:
   build:
